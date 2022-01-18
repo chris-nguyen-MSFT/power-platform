@@ -143,7 +143,7 @@ Go back to the custom connector to set up a connection to the custom connector a
 > [!IMPORTANT]
 > You must complete these steps for subsequent steps to work. If you don't create a new connection and test the connector here, setting up the flow and child flow in later steps will fail.
 
-1. On the **Custom Connector** page, select **4. Test**.
+1. On the **Custom Connector** page, select **5. Test**.
 
 1. Select **+ New connection**, and then sign in with your account.
 
